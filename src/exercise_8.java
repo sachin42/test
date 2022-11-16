@@ -1,3 +1,4 @@
+// 8. Write a Java program to display the following pattern.
 public class exercise_8 {
     public static void main(String[] args) {
         System.out.println("   J    a   v     v  a ");
