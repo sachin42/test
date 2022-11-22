@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //17. Write a Java program to add two binary numbers.
-public class exercise_17 {
+public class basic_exercise_17 {
     public static void main(String[] args)
     {
         long binary1, binary2;

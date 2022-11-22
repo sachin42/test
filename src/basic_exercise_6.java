@@ -1,7 +1,7 @@
 // 6. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 import java.util.Scanner;
 
-public class exercise_6 {
+public class basic_exercise_6 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int a,b;

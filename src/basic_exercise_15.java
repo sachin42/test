@@ -1,5 +1,5 @@
 //15. Write a Java program to swap two variables.
-public class exercise_15 {
+public class basic_exercise_15 {
     public static void main(String[] args) {
         int a = 5, b= 7, temp;
 
