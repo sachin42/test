@@ -5,7 +5,7 @@ public class Quiz_5 {
     public static void main(String[] args) {
 //        initial speed and angle of projection are 40Km/hr and 60 degree
         double speed = 40,sin60=0.866025403,g= 9.807;
-        double ms = 40/3.6;
+        double ms = speed/3.6;
 
 //        time of flight is (2Vsin$)/g
         double t = (2*ms*sin60)/g;
