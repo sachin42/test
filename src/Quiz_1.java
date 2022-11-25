@@ -1,5 +1,11 @@
+/* Calculate the percentage of student of 5 subjects marks entered by user
+if marks are more than 75% passed with honors
+60 - 75% passed with first division
+45-60% passed with second division
+33-45% passed with third division
+less 33 % failed
+*/
 import java.util.Scanner;
-
 public class Quiz_1 {
     public static void main(String[] args) {
         double total_marks,percentage,hindi,math,science,english,social_science;

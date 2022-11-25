@@ -1,5 +1,5 @@
+//nested if conditional statement
 import java.util.Scanner;
-
 public class nested_if {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

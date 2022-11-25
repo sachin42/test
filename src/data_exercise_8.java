@@ -1,5 +1,5 @@
+//8. Write a Java program that reads a number and display the square, cube, and fourth power.
 import java.util.Scanner;
-
 public class data_exercise_8 {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);

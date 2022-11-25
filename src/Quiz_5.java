@@ -1,3 +1,6 @@
+/* Write a program to find the total height achieved and time of flight of a football if it kicked
+ and achieved the speed of 40Km at 60-degree angle.
+* */
 public class Quiz_5 {
     public static void main(String[] args) {
 //        initial speed and angle of projection are 40Km/hr and 60 degree

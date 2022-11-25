@@ -1,5 +1,5 @@
+// to find the given number is odd or even.
 import java.util.Scanner;
-
 public class Quiz_8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

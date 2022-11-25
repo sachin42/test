@@ -1,3 +1,4 @@
+//else if ladder condition statement
 import java.util.Scanner;
 public class ifelse_elseif {
     public static void main(String[] args) {

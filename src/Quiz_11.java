@@ -1,3 +1,4 @@
+//write a program to find the value of y if y = sqrt(x^2+2x+7)
 import java.util.Scanner;
 import java.lang.Math;
 public class Quiz_11 {

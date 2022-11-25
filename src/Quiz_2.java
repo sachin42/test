@@ -1,5 +1,11 @@
+/*Write a program to unit conversion:
+1. Km to cm
+2. miles to inches
+3. Pound to Kg
+4. USD to INR
+5. Celsius to fahrenheit
+* */
 import java.util.Scanner;
-
 public class Quiz_2 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);

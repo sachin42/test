@@ -1,3 +1,4 @@
+//Calculate the distance b/w to points on the graph
 import java.lang.Math;
 public class Quiz_10 {
     public static void main(String[] args) {
