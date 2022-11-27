@@ -6,31 +6,22 @@ public class con_exercise_7 {
         String month_name = "0";
         String year_type ;
         int month,year,days = 0;
+
         Scanner in = new Scanner(System.in);
         System.out.println("Input month");
         month = in.nextInt();
         System.out.println("Input year");
         year = in.nextInt();
 
-        if (year % 4 == 0){
-            if(year % 100 == 0){
-                if (year % 400 == 0){
-                    leap_year = true;
-                    year_type = "(a leap year)";
-                } else {
-                    leap_year = false;
-                    year_type = "(not a leap year)";
-                }
-            } else {
-                leap_year = true;
-                year_type = "(a leap year)";
-            }
+        if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) {
+            leap_year = true;
+            year_type = "(a leap year)";
         } else {
             leap_year = false;
             year_type = "(not a leap year)";
         }
 
-        switch (month){
+        switch (month) {
             case 1:
                 month_name = "January";
                 days = 31;
@@ -87,6 +78,6 @@ public class con_exercise_7 {
                 System.out.println("Invalid Entry");
         }
 
-        System.out.println(month_name+ " "+year+year_type+ " has "+ days+ " days.");
+        System.out.println(month_name+ " "+year+year_type+ " has "+ days+ " days.\n");
     }
 }
