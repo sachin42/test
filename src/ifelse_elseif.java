@@ -9,17 +9,18 @@ public class ifelse_elseif {
         {
             System.out.println("You are eligible for voting.");
         }
-        else if (age < 5 && age > 0)
+        else if (age >= 10)
         {
-            System.out.println("Yoy can vote for kids only.");
+            System.out.println("you can vot for college only.");
+
         }
-        else if (age < 10 && age > 5)
+        else if (age >= 5)
         {
             System.out.println("You can vote for school only.");
         }
-        else if (age < 18 && age > 10)
+        else if (age >= 1)
         {
-            System.out.println("you can vot for college only.");
+            System.out.println("Yoy can vote for kids only.");
         }
         else
         {
