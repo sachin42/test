@@ -1,6 +1,6 @@
 // 9. Write a Java program that takes a year from user and print whether that year is a leap year or not.
 import java.util.Scanner;
-public class Con_exercise_9 {
+public class con_exercise_9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int year;
