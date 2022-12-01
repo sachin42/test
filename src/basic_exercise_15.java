@@ -17,9 +17,5 @@ public class basic_exercise_15 {
         b = a-b;
         a = a-b;
         System.out.println("Before swap value of a = "+a+" and value of b = "+b);
-
-
-
-
     }
 }
