@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 //6. Write a Java program to compute body mass index (BMI)
+import java.util.Scanner;
 public class data_exercise_6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

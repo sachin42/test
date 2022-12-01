@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 // 5.Write a Java program that takes two numbers as input and display the product of two numbers
+import java.util.Scanner;
 public class basic_exercise_5 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);// for taking input

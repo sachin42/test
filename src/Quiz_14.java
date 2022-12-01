@@ -1,5 +1,5 @@
+// Fibonacci Series
 import java.util.Scanner;
-
 public class Quiz_14 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

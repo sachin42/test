@@ -6,7 +6,6 @@ b. (55+9) % 9
 c. 20 + -3*5 / 8
 d. 5 + 15 / 3 * 2 - 8 % 3
 */
-
 public class basic_exercise_4 {
     public static void main(String[] args) {
         System.out.printf("%d\n",-5+8*6);

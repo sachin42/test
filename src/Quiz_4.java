@@ -1,5 +1,5 @@
-import java.util.Scanner;
 // calculate the equivalent resistance of three resistors if they are in series and parallel.
+import java.util.Scanner;
 public class Quiz_4 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

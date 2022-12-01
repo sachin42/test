@@ -1,7 +1,6 @@
 //9. Write a Java program that accepts two integers from the user and then prints the sum, the difference, the product, the average,
 // the distance (the difference between integer), the maximum (the larger of the two integers), the minimum (smaller of the two integers).
 import java.util.Scanner;
-
 public class data_exercise_9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

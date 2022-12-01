@@ -1,5 +1,5 @@
-import java.util.Scanner;
 //2. Write a Java program that reads a number in inches, converts it to meters.
+import java.util.Scanner;
 public class data_exercise_2 {
     public static void main(String[] Strings) {
         Scanner input = new Scanner(System.in);

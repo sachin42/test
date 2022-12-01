@@ -1,6 +1,5 @@
 //3. Take three numbers from the user and print the greatest number.
 import java.util.Scanner;
-
 public class con_exercise_3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

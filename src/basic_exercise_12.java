@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 // 12. Write a Java program that takes three numbers as input to calculate and print the average of the numbers.
+import java.util.Scanner;
 public class basic_exercise_12 {
     public static void main(String[] args) {
         int a,b,c;

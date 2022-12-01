@@ -1,5 +1,5 @@
+// Table with for loop
 import java.util.Scanner;
-
 public class Quiz_7 {
     public static void main(String[] args) {
 

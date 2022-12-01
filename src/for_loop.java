@@ -1,5 +1,5 @@
-import java.util.Scanner;
 // multiple condition for loop
+import java.util.Scanner;
 public class for_loop {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

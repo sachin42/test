@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 //5. Write a Java program that prints the current time in GMT.
+import java.util.Scanner;
 public class data_exercise_5 {
     public static void main(String[] Strings) {
 

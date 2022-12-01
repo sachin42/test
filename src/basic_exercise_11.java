@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 //11. Write a Java program to print the area and perimeter of a circle.
+import java.util.Scanner;
 public class basic_exercise_11 {
     public static void main(String[] args) {
         double PI = 3.14;

@@ -5,7 +5,6 @@
 //        Expected Output :
 //        1 2 3 4 5 6
 import java.util.Scanner;
-
 public class data_exercise_10 {
     public static void main(String[] args) {
         int six,five,four,three,two,one,num,remain;
