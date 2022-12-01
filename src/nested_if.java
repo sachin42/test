@@ -8,7 +8,7 @@ public class nested_if {
         if (age>=18){
             System.out.println("Do you have id");
             String id = in.next();
-            if (id == "yes"){
+            if (id.equals("yes")){
                 System.out.println("Go ahead and place your vote.");
             } else {
                 System.out.println("You can not vote without Id.");

@@ -15,6 +15,6 @@ public class basic_exercise_12 {
         c = in.nextInt();
 
         double avarage = (a+b+c)/3.0;
-        System.out.printf("Avrage of %d,%d and %d = %.2f",a,b,c,avarage);
+        System.out.printf("Average of %d,%d and %d = %.2f",a,b,c,avarage);
     }
 }

@@ -1,4 +1,5 @@
 //Bitwise Operators
+@SuppressWarnings("ConstantConditions")
 public class bitwise {
     public static void main(String[] args) {
         int a = 12;

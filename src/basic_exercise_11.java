@@ -7,6 +7,6 @@ public class basic_exercise_11 {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the radius of circle");
         double radius = in.nextDouble();
-        System.out.println("Perimeter of circle with radius " + radius + " = " + (2 * PI * radius)); // perimter of circle formula 2*PI*radius
+        System.out.println("Perimeter of circle with radius " + radius + " = " + (2 * PI * radius)); // perimeter of circle formula 2*PI*radius
     }
 }

@@ -5,9 +5,9 @@ public class basic_exercise_6 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int a,b;
-        System.out.printf("Input first number : ");
+        System.out.println("Input first number : ");
         a = input.nextInt();
-        System.out.printf("Input second number : ");
+        System.out.println("Input second number : ");
         b = input.nextInt();
 
         System.out.printf("%d + %d = %d\n",a,b,a+b);
