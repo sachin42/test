@@ -1,3 +1,4 @@
+//taking input as string and printing string as output.
 import java.util.Scanner;
 public class string_en {
     public static void main(String[] args) {

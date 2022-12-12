@@ -1,3 +1,4 @@
+//write a program to check whether an entered character is lowercase(a-z) or uppercase(A-Z).
 import java.util.Scanner;
 public class java_test_4 {
     public static void main(String[] args) {
