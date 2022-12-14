@@ -25,12 +25,8 @@ public class WRWP_method {
                 case 4:
                     System.out.println(a + " / "+ b + " = "+div(a,b));
                     break;
-
             }
-
         }while(option != 5);
-
-
     }
     private static int add(int x, int y){
         return x+y;

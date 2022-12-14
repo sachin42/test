@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class NRNP_method {
     public static void main(String[] args) {
         result();
