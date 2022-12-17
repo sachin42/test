@@ -13,7 +13,7 @@ public class basic_exercise_12 {
         System.out.println("Enter third number");
         c = in.nextInt();
 
-        double avarage = (a+b+c)/3.0;
-        System.out.printf("Average of %d,%d and %d = %.2f",a,b,c,avarage);
+        double average = (a+b+c)/3.0;
+        System.out.printf("Average of %d,%d and %d = %.2f",a,b,c,average);
     }
 }

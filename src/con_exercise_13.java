@@ -1,4 +1,4 @@
-//13. Write a program in Java to display the cube of the number upto given an integer.
+//13. Write a program in Java to display the cube of the number up to given integer.
 import java.util.Scanner;
 public class con_exercise_13 {
     public static void main(String[] args) {
