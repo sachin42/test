@@ -1,24 +1,5 @@
 import java.util.Scanner;
-
 public class Quiz_22 {
-    static class people{
-        double height;
-        String color;
-        String language;
-        String foodType;
-        void displayState(){
-            System.out.println(color + "\t"+height);
-        }
-        void displayBehavior(){
-            System.out.println(language+"\t"+foodType);
-        }
-        people(double h,String c,String l,String f){
-            this.height=h;
-            this.color=c;
-            this.language=l;
-            this.foodType=f;
-        }
-    }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         people asians = new people(5, "pale-white", "Mandarin", "Mixed");
@@ -40,5 +21,23 @@ public class Quiz_22 {
             default:
                 System.out.println("Invalid Entry");
         }
+    }
+}
+class people{
+    double height;
+    String color;
+    String language;
+    String foodType;
+    void displayState(){
+        System.out.println(color + "\t"+height);
+    }
+    void displayBehavior(){
+        System.out.println(language+"\t"+foodType);
+    }
+    people(double h,String c,String l,String f){
+        this.height=h;
+        this.color=c;
+        this.language=l;
+        this.foodType=f;
     }
 }

@@ -27,7 +27,7 @@ class Employee{
         designation=d;
         salary=s;
     }
-//    Employee(int a, String n, String d, double h,double s) {
+//    Employee(int a, String n, String d, double h,double s) { // constructor
 //        age =a;
 //        name=n;
 //        height = h;

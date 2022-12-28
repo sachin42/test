@@ -22,7 +22,6 @@ public class oopAnimal {
         this.Animalage = age;
         this.AnimalHeight = height;
     }
-
 }
 class runAnimal{
     public static void main(String[] args) {
